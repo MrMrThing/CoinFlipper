@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Coin Flipper</string>
+    <string-array name="betAmounts">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+
+</resources>
